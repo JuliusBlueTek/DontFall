@@ -16,6 +16,13 @@ ModelImporter:
     100020: R_Metacarpal
     100022: R_Proximal
     100024: R_Thumb
+    100026: solidShatter1
+    100028: Stalactite
+    100030: Stalactite_Shard_1
+    100032: Stalactite_Shard_2
+    100034: Stalactite_Shard_3
+    100036: Stalactite_Shard_4
+    100038: Stalactite_Shard_5
     400000: centimeters18_5
     400002: Holds_Bucket
     400004: Holds_Crimp
@@ -29,7 +36,15 @@ ModelImporter:
     400020: R_Metacarpal
     400022: R_Proximal
     400024: R_Thumb
+    400026: solidShatter1
+    400028: Stalactite
+    400030: Stalactite_Shard_1
+    400032: Stalactite_Shard_2
+    400034: Stalactite_Shard_3
+    400036: Stalactite_Shard_4
+    400038: Stalactite_Shard_5
     2100000: lambert1
+    2100002: shatterInteriorS2
     2300000: centimeters18_5
     2300002: Holds_Bucket
     2300004: Holds_Crimp
@@ -42,6 +57,12 @@ ModelImporter:
     2300018: R_Metacarpal
     2300020: R_Proximal
     2300022: R_Thumb
+    2300024: Stalactite
+    2300026: Stalactite_Shard_1
+    2300028: Stalactite_Shard_2
+    2300030: Stalactite_Shard_3
+    2300032: Stalactite_Shard_4
+    2300034: Stalactite_Shard_5
     3300000: centimeters18_5
     3300002: Holds_Bucket
     3300004: Holds_Crimp
@@ -54,6 +75,12 @@ ModelImporter:
     3300018: R_Metacarpal
     3300020: R_Proximal
     3300022: R_Thumb
+    3300024: Stalactite
+    3300026: Stalactite_Shard_1
+    3300028: Stalactite_Shard_2
+    3300030: Stalactite_Shard_3
+    3300032: Stalactite_Shard_4
+    3300034: Stalactite_Shard_5
     4300000: R_Metacarpal
     4300002: R_Proximal
     4300004: R_Intermediate
@@ -66,6 +93,12 @@ ModelImporter:
     4300018: centimeters18_5
     4300020: Holds_Edge
     4300022: Holds_Crimp
+    4300024: Stalactite
+    4300026: Stalactite_Shard_1
+    4300028: Stalactite_Shard_4
+    4300030: Stalactite_Shard_3
+    4300032: Stalactite_Shard_5
+    4300034: Stalactite_Shard_2
   externalObjects: {}
   materials:
     importMaterials: 1
