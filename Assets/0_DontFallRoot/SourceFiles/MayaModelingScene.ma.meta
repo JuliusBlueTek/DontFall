@@ -1,59 +1,59 @@
 fileFormatVersion: 2
-guid: 496e7e3c8d572a6449943215cb58eb56
+guid: e3cd62f526fff904f9714463cf30aaac
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: centimeters18_5
     100002: Holds_Bucket
-    100004: L_Intermediate
-    100006: L_Metacarpal
-    100008: L_Proximal
-    100010: L_Thumb
-    100012: //RootNode
-    100014: R_Intermediate
-    100016: R_Metacarpal
-    100018: R_Proximal
-    100020: R_Thumb
-    100022: Holds_Crimp
-    100024: Holds_Edge
+    100004: Holds_Crimp
+    100006: Holds_Edge
+    100008: L_Intermediate
+    100010: L_Metacarpal
+    100012: L_Proximal
+    100014: L_Thumb
+    100016: //RootNode
+    100018: R_Intermediate
+    100020: R_Metacarpal
+    100022: R_Proximal
+    100024: R_Thumb
     400000: centimeters18_5
     400002: Holds_Bucket
-    400004: L_Intermediate
-    400006: L_Metacarpal
-    400008: L_Proximal
-    400010: L_Thumb
-    400012: //RootNode
-    400014: R_Intermediate
-    400016: R_Metacarpal
-    400018: R_Proximal
-    400020: R_Thumb
-    400022: Holds_Crimp
-    400024: Holds_Edge
+    400004: Holds_Crimp
+    400006: Holds_Edge
+    400008: L_Intermediate
+    400010: L_Metacarpal
+    400012: L_Proximal
+    400014: L_Thumb
+    400016: //RootNode
+    400018: R_Intermediate
+    400020: R_Metacarpal
+    400022: R_Proximal
+    400024: R_Thumb
     2100000: lambert1
     2300000: centimeters18_5
     2300002: Holds_Bucket
-    2300004: L_Intermediate
-    2300006: L_Metacarpal
-    2300008: L_Proximal
-    2300010: L_Thumb
-    2300012: R_Intermediate
-    2300014: R_Metacarpal
-    2300016: R_Proximal
-    2300018: R_Thumb
-    2300020: Holds_Crimp
-    2300022: Holds_Edge
+    2300004: Holds_Crimp
+    2300006: Holds_Edge
+    2300008: L_Intermediate
+    2300010: L_Metacarpal
+    2300012: L_Proximal
+    2300014: L_Thumb
+    2300016: R_Intermediate
+    2300018: R_Metacarpal
+    2300020: R_Proximal
+    2300022: R_Thumb
     3300000: centimeters18_5
     3300002: Holds_Bucket
-    3300004: L_Intermediate
-    3300006: L_Metacarpal
-    3300008: L_Proximal
-    3300010: L_Thumb
-    3300012: R_Intermediate
-    3300014: R_Metacarpal
-    3300016: R_Proximal
-    3300018: R_Thumb
-    3300020: Holds_Crimp
-    3300022: Holds_Edge
+    3300004: Holds_Crimp
+    3300006: Holds_Edge
+    3300008: L_Intermediate
+    3300010: L_Metacarpal
+    3300012: L_Proximal
+    3300014: L_Thumb
+    3300016: R_Intermediate
+    3300018: R_Metacarpal
+    3300020: R_Proximal
+    3300022: R_Thumb
     4300000: R_Metacarpal
     4300002: R_Proximal
     4300004: R_Intermediate

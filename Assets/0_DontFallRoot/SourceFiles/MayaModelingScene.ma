@@ -1,6 +1,6 @@
 //Maya ASCII 2016 scene
 //Name: MayaModelingScene.ma
-//Last modified: Sun, Feb 04, 2018 04:59:04 PM
+//Last modified: Sun, Feb 04, 2018 05:01:36 PM
 //Codeset: 1252
 requires maya "2016";
 requires "stereoCamera" "10.0";
