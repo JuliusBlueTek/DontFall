@@ -23,6 +23,7 @@ ModelImporter:
     100034: Stalactite_Shard_3
     100036: Stalactite_Shard_4
     100038: Stalactite_Shard_5
+    100040: SharkyCroc
     400000: centimeters18_5
     400002: Holds_Bucket
     400004: Holds_Crimp
@@ -43,6 +44,7 @@ ModelImporter:
     400034: Stalactite_Shard_3
     400036: Stalactite_Shard_4
     400038: Stalactite_Shard_5
+    400040: SharkyCroc
     2100000: lambert1
     2100002: shatterInteriorS2
     2300000: centimeters18_5
@@ -63,6 +65,7 @@ ModelImporter:
     2300030: Stalactite_Shard_3
     2300032: Stalactite_Shard_4
     2300034: Stalactite_Shard_5
+    2300036: SharkyCroc
     3300000: centimeters18_5
     3300002: Holds_Bucket
     3300004: Holds_Crimp
@@ -81,6 +84,7 @@ ModelImporter:
     3300030: Stalactite_Shard_3
     3300032: Stalactite_Shard_4
     3300034: Stalactite_Shard_5
+    3300036: SharkyCroc
     4300000: R_Metacarpal
     4300002: R_Proximal
     4300004: R_Intermediate
@@ -99,6 +103,7 @@ ModelImporter:
     4300030: Stalactite_Shard_3
     4300032: Stalactite_Shard_5
     4300034: Stalactite_Shard_2
+    4300036: SharkyCroc
   externalObjects: {}
   materials:
     importMaterials: 1
