@@ -1,71 +1,14 @@
 fileFormatVersion: 2
-guid: 496e7e3c8d572a6449943215cb58eb56
+guid: fda67916f41a0b8438c4421b8761f7af
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: centimeters18_5
-    100002: Holds_Bucket
-    100004: L_Intermediate
-    100006: L_Metacarpal
-    100008: L_Proximal
-    100010: L_Thumb
-    100012: //RootNode
-    100014: R_Intermediate
-    100016: R_Metacarpal
-    100018: R_Proximal
-    100020: R_Thumb
-    100022: Holds_Crimp
-    100024: Holds_Edge
-    400000: centimeters18_5
-    400002: Holds_Bucket
-    400004: L_Intermediate
-    400006: L_Metacarpal
-    400008: L_Proximal
-    400010: L_Thumb
-    400012: //RootNode
-    400014: R_Intermediate
-    400016: R_Metacarpal
-    400018: R_Proximal
-    400020: R_Thumb
-    400022: Holds_Crimp
-    400024: Holds_Edge
+    100000: //RootNode
+    400000: //RootNode
     2100000: lambert1
-    2300000: centimeters18_5
-    2300002: Holds_Bucket
-    2300004: L_Intermediate
-    2300006: L_Metacarpal
-    2300008: L_Proximal
-    2300010: L_Thumb
-    2300012: R_Intermediate
-    2300014: R_Metacarpal
-    2300016: R_Proximal
-    2300018: R_Thumb
-    2300020: Holds_Crimp
-    2300022: Holds_Edge
-    3300000: centimeters18_5
-    3300002: Holds_Bucket
-    3300004: L_Intermediate
-    3300006: L_Metacarpal
-    3300008: L_Proximal
-    3300010: L_Thumb
-    3300012: R_Intermediate
-    3300014: R_Metacarpal
-    3300016: R_Proximal
-    3300018: R_Thumb
-    3300020: Holds_Crimp
-    3300022: Holds_Edge
-    4300000: R_Metacarpal
-    4300002: R_Proximal
-    4300004: R_Intermediate
-    4300006: R_Thumb
-    4300008: L_Metacarpal
-    4300010: L_Proximal
-    4300012: L_Intermediate
-    4300014: L_Thumb
-    4300016: Holds_Bucket
-    4300018: centimeters18_5
-    4300020: Holds_Edge
-    4300022: Holds_Crimp
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Holds_Edge
   externalObjects: {}
   materials:
     importMaterials: 1
