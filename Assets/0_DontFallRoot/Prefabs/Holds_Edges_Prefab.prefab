@@ -36,6 +36,8 @@ GameObject:
   - component: {fileID: 4856696074312390}
   - component: {fileID: 33597570342931628}
   - component: {fileID: 23785021876467834}
+  - component: {fileID: 65807319988365448}
+  - component: {fileID: 114664135441193670}
   m_Layer: 0
   m_Name: Holds_Edge
   m_TagString: Untagged
@@ -112,3 +114,26 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1933762625874744}
   m_Mesh: {fileID: 4300000, guid: fda67916f41a0b8438c4421b8761f7af, type: 3}
+--- !u!65 &65807319988365448
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1933762625874744}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.112844355, y: 0.061472658, z: 0.030585468}
+  m_Center: {x: -0.0014264472, y: -0.015141988, z: 0.01523908}
+--- !u!114 &114664135441193670
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1933762625874744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6362a4dca26e54a825d8deceb237a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

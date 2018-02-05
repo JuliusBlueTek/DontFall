@@ -21,9 +21,11 @@ GameObject:
   - component: {fileID: 4234586068844622}
   - component: {fileID: 33368737437715054}
   - component: {fileID: 23827004217896970}
+  - component: {fileID: 65796323823855794}
+  - component: {fileID: 114113492734004634}
   m_Layer: 0
   m_Name: Holds_Bucket
-  m_TagString: Untagged
+  m_TagString: Grip
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112,3 +114,26 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1513164086432202}
   m_Mesh: {fileID: 4300000, guid: 7bd16388f3ca0044d9e4700a997264d0, type: 3}
+--- !u!65 &65796323823855794
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1513164086432202}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.14194424, y: 0.070894465, z: 0.06632763}
+  m_Center: {x: 0, y: 0.0118953455, z: 0.020847356}
+--- !u!114 &114113492734004634
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1513164086432202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6362a4dca26e54a825d8deceb237a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

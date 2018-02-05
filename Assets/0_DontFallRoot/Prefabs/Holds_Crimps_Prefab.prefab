@@ -36,6 +36,8 @@ GameObject:
   - component: {fileID: 4624743436666292}
   - component: {fileID: 33894931097460508}
   - component: {fileID: 23256522270655332}
+  - component: {fileID: 65190410342821142}
+  - component: {fileID: 114064697091543524}
   m_Layer: 0
   m_Name: Holds_Crimp
   m_TagString: Untagged
@@ -112,3 +114,26 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1953968215787550}
   m_Mesh: {fileID: 4300000, guid: 765191ec6ccc58d4da80c8f3274eb174, type: 3}
+--- !u!65 &65190410342821142
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1953968215787550}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.050513774, y: 0.022166802, z: 0.011343178}
+  m_Center: {x: -0.0014264481, y: -0.004065358, z: 0.004725413}
+--- !u!114 &114064697091543524
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1953968215787550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af6362a4dca26e54a825d8deceb237a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
