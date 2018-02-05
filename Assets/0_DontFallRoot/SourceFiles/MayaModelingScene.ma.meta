@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: e3cd62f526fff904f9714463cf30aaac
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: centimeters18_5
+    100002: Holds_Bucket
+    100004: Holds_Crimp
+    100006: Holds_Edge
+    100008: L_Intermediate
+    100010: L_Metacarpal
+    100012: L_Proximal
+    100014: L_Thumb
+    100016: //RootNode
+    100018: R_Intermediate
+    100020: R_Metacarpal
+    100022: R_Proximal
+    100024: R_Thumb
+    100026: solidShatter1
+    100028: Stalactite
+    100030: Stalactite_Shard_1
+    100032: Stalactite_Shard_2
+    100034: Stalactite_Shard_3
+    100036: Stalactite_Shard_4
+    100038: Stalactite_Shard_5
+    100040: SharkyCroc
+    400000: centimeters18_5
+    400002: Holds_Bucket
+    400004: Holds_Crimp
+    400006: Holds_Edge
+    400008: L_Intermediate
+    400010: L_Metacarpal
+    400012: L_Proximal
+    400014: L_Thumb
+    400016: //RootNode
+    400018: R_Intermediate
+    400020: R_Metacarpal
+    400022: R_Proximal
+    400024: R_Thumb
+    400026: solidShatter1
+    400028: Stalactite
+    400030: Stalactite_Shard_1
+    400032: Stalactite_Shard_2
+    400034: Stalactite_Shard_3
+    400036: Stalactite_Shard_4
+    400038: Stalactite_Shard_5
+    400040: SharkyCroc
+    2100000: lambert1
+    2100002: shatterInteriorS2
+    2300000: centimeters18_5
+    2300002: Holds_Bucket
+    2300004: Holds_Crimp
+    2300006: Holds_Edge
+    2300008: L_Intermediate
+    2300010: L_Metacarpal
+    2300012: L_Proximal
+    2300014: L_Thumb
+    2300016: R_Intermediate
+    2300018: R_Metacarpal
+    2300020: R_Proximal
+    2300022: R_Thumb
+    2300024: Stalactite
+    2300026: Stalactite_Shard_1
+    2300028: Stalactite_Shard_2
+    2300030: Stalactite_Shard_3
+    2300032: Stalactite_Shard_4
+    2300034: Stalactite_Shard_5
+    2300036: SharkyCroc
+    3300000: centimeters18_5
+    3300002: Holds_Bucket
+    3300004: Holds_Crimp
+    3300006: Holds_Edge
+    3300008: L_Intermediate
+    3300010: L_Metacarpal
+    3300012: L_Proximal
+    3300014: L_Thumb
+    3300016: R_Intermediate
+    3300018: R_Metacarpal
+    3300020: R_Proximal
+    3300022: R_Thumb
+    3300024: Stalactite
+    3300026: Stalactite_Shard_1
+    3300028: Stalactite_Shard_2
+    3300030: Stalactite_Shard_3
+    3300032: Stalactite_Shard_4
+    3300034: Stalactite_Shard_5
+    3300036: SharkyCroc
+    4300000: R_Metacarpal
+    4300002: R_Proximal
+    4300004: R_Intermediate
+    4300006: R_Thumb
+    4300008: L_Metacarpal
+    4300010: L_Proximal
+    4300012: L_Intermediate
+    4300014: L_Thumb
+    4300016: Holds_Bucket
+    4300018: centimeters18_5
+    4300020: Holds_Edge
+    4300022: Holds_Crimp
+    4300024: Stalactite
+    4300026: Stalactite_Shard_1
+    4300028: Stalactite_Shard_4
+    4300030: Stalactite_Shard_3
+    4300032: Stalactite_Shard_5
+    4300034: Stalactite_Shard_2
+    4300036: SharkyCroc
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
